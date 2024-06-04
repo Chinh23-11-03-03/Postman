@@ -5,7 +5,7 @@ BÁO CÁO BÀI TẬP THỰC HÀNH KIỂM THỬ VỚI POSTMAN NGUYỄN ĐỨC CH�
 Postman là một công cụ phổ biến được sử dụng để phát triển và kiểm thử API. Nó cung cấp một giao diện người dùng dễ sử dụng để tạo, gửi, xem và kiểm tra các yêu cầu HTTP.
 Một số chức năng chính của Postman:
 - Gửi yêu cầu HTTP:
-Postman cho phép gửi nhiều loại yêu cầu HTTP như GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS, và nhiều loại khác.
+•	Postman cho phép gửi nhiều loại yêu cầu HTTP như GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS, và nhiều loại khác.
 - Quản lý API:
 •	Collections: Postman cho phép bạn nhóm các yêu cầu liên quan vào các tập hợp (collections), giúp quản lý dễ dàng và có cấu trúc hơn.
 •	Environments: Bạn có thể định nghĩa các môi trường khác nhau với các biến môi trường để dễ dàng chuyển đổi giữa các môi trường phát triển, kiểm thử, và sản xuất.
