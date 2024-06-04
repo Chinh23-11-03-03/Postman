@@ -1,5 +1,6 @@
 # Postman
 BÁO CÁO BÀI TẬP THỰC HÀNH KIỂM THỬ VỚI POSTMAN NGUYỄN ĐỨC CHÍNH - 21012043
+
 1 Giới thiệu về Postman
 Postman là một công cụ phổ biến được sử dụng để phát triển và kiểm thử API. Nó cung cấp một giao diện người dùng dễ sử dụng để tạo, gửi, xem và kiểm tra các yêu cầu HTTP.
 Một số chức năng chính của Postman:
@@ -14,7 +15,7 @@ Một số chức năng chính của Postman:
 •	Pre-request Scripts: Viết các đoạn mã JavaScript để thực hiện trước khi gửi yêu cầu, giúp tùy chỉnh và chuẩn bị dữ liệu cho các yêu cầu phức tạp.
 
 2 Kiểm tra API cơ bản
-Giao diện ban đầu:
+ Giao diện ban đầu:
 ![giaodienban dau](https://github.com/NguyenChinh23/Postman/assets/119948744/869372e5-ae9d-4172-92e6-3fa69ae3a2c2)
 Get:
 ![Get](https://github.com/NguyenChinh23/Postman/assets/119948744/b598c558-0833-47a7-85c4-9f09303a85db)
